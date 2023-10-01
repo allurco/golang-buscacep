@@ -1,0 +1,10 @@
+CEP: 60875-577
+ Logradouro Rua G
+ Complemento: (Lot Cidade Verde)
+ Bairro: São Bento
+ Localidade: Fortaleza
+ UF: CE
+ IBGE: 2304400
+ GIA: 
+ DDD: 85
+ SIAFI: 1389

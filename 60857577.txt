@@ -1,0 +1,10 @@
+CEP: 
+ Logradouro 
+ Complemento: 
+ Bairro: 
+ Localidade: 
+ UF: 
+ IBGE: 
+ GIA: 
+ DDD: 
+ SIAFI: 
